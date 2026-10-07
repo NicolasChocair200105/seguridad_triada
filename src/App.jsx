@@ -132,7 +132,7 @@ export default function App() {
             <Shield className="w-10 h-10 text-indigo-400" />
           </div>
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-white">
-            La Tríada de la <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-emerald-400 to-amber-400">Información</span>
+            La Tríada de la Información
           </h1>
           <p className="text-lg text-slate-400 max-w-2xl mx-auto leading-relaxed">
             También conocida como la <strong>Tríada CIA</strong>. Son las 3 reglas de oro que toda aplicación, banco o red social debe cumplir para mantener tus datos a salvo.
@@ -221,7 +221,6 @@ export default function App() {
 
         {/* Footer / Dev info */}
         <footer className="mt-16 text-center text-slate-500 text-sm pb-8">
-          <p>Desarrollado en React. Listo para ser subido a GitHub y desplegado en Vercel con "git push".</p>
         </footer>
 
       </div>
